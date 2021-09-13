@@ -13,17 +13,26 @@ Notes & Materials from the Polytechnic University of Milan (poliMI)
 
 # Courses:
 
+</div>
+
 I semester
 
 [Analisi Matematica I](https://github.com/Fylls/polimi-analisi)
+
 [Chimica e Materiali](https://github.com/Fylls/polimi-chimica)
+
 [Informatica](https://github.com/Fylls/polimi-informatica)
+
+<br>
 
 II semester
 
 [Analisi Matematica II](https://github.com/Fylls/polimi-analisi)
+
 [Fisica Sperimentale I](https://github.com/Fylls/polimi-fisica)
+
 [Telecomunicazioni](https://github.com/Fylls/polimi-telecomunicazioni)
+
 [Statistica](https://github.com/Fylls/polimi-statistica)
 
-</div>
+
