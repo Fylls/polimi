@@ -14,18 +14,26 @@ Notes & Materials from the Polytechnic University of Milan (poliMI)
 
 </div>
 
-I semester
-
+<table>
+<tr>
+<th> I semester </th>
+<th> II semester </th>
+<th> III semester </th>
+</tr>
+  
+<tr>
+<td style="text-align:center">
+  
 [Analisi Matematica I](https://github.com/Fylls/polimi-analisi)
 
 [Chimica e Materiali](https://github.com/Fylls/polimi-chimica)
 
 [Informatica](https://github.com/Fylls/polimi-informatica)
-
-<br>
-
-II semester
-
+  
+</td>
+  
+<td style="text-align:center">
+  
 [Analisi Matematica II](https://github.com/Fylls/polimi-analisi)
 
 [Fisica Sperimentale I](https://github.com/Fylls/polimi-fisica)
@@ -34,10 +42,10 @@ II semester
 
 [Statistica](https://github.com/Fylls/polimi-statistica)
 
-<br>
+</td>
 
-III semester
-
+<td style="text-align:center">
+  
 [Analisi Matematica III](https://github.com/Fylls/polimi-analisi)
 
 [Fisica Sperimentale II](https://github.com/Fylls/polimi-fisica)
@@ -46,4 +54,8 @@ III semester
 
 [Meccanica Applicata](https://github.com/Fylls/polimi-meccanica)
 
+</td>
+  
+</tr>
+</table>
 
