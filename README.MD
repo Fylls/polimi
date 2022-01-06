@@ -9,7 +9,6 @@ Notes & Materials from the Polytechnic University of Milan (poliMI)
 <br>
 
 ![1-PolimiCampus_2](https://user-images.githubusercontent.com/55017307/133038122-8bc71289-37e6-4f2e-a789-229365f5e4cf.jpg)
-![01_Polimi_centrato_BN_positivo](https://user-images.githubusercontent.com/55017307/133038290-918fa993-86ae-4dc4-a225-c4ea31256745.jpg)
 
 # Courses:
 
