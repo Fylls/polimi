@@ -34,4 +34,16 @@ II semester
 
 [Statistica](https://github.com/Fylls/polimi-statistica)
 
+<br>
+
+III semester
+
+[Analisi Matematica III](https://github.com/Fylls/polimi-analisi)
+
+[Fisica Sperimentale II](https://github.com/Fylls/polimi-fisica)
+
+[Sistemi Energetici](https://github.com/Fylls/polimi-sistemi-energetici)
+
+[Meccanica Applicata](https://github.com/Fylls/polimi-meccanica)
+
 
