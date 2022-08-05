@@ -34,9 +34,9 @@ Notes & Materials from the Polytechnic University of Milan (poliMI)
 </td>
 <td style="text-align:center">
   
-[Analisi Matematica II](https://github.com/Fylls/polimi-analisi)
+[Analisi II](https://github.com/Fylls/polimi-analisi)
 
-[Fisica Sperimentale I](https://github.com/Fylls/polimi-fisica)
+[Fisica I](https://github.com/Fylls/polimi-fisica)
 
 [Telecomunicazioni](https://github.com/Fylls/polimi-telecomunicazioni)
 
@@ -45,9 +45,9 @@ Notes & Materials from the Polytechnic University of Milan (poliMI)
 </td>
 <td style="text-align:center">
   
-[Analisi Matematica III](https://github.com/Fylls/polimi-analisi)
+[Analisi III](https://github.com/Fylls/polimi-analisi)
 
-[Fisica Sperimentale II](https://github.com/Fylls/polimi-fisica)
+[Fisica II](https://github.com/Fylls/polimi-fisica)
 
 [Sistemi Energetici](https://github.com/Fylls/polimi-sistemi-energetici)
 
