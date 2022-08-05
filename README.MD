@@ -25,33 +25,33 @@ Notes & Materials from the Polytechnic University of Milan (poliMI)
 <tr>
 <td style="text-align:center">
   
-[Analisi I](https://github.com/Fylls/polimi-analisi)
+[Analisi Matematica I](https://github.com/Fylls/polimi-analisi)
 
-[Chimica](https://github.com/Fylls/polimi-chimica)
+[Chimica e Materiali](https://github.com/Fylls/polimi-chimica)
 
 [Informatica](https://github.com/Fylls/polimi-informatica)
   
 </td>
 <td style="text-align:center">
   
-[Analisi II](https://github.com/Fylls/polimi-analisi)
+[Analisi Matematica II](https://github.com/Fylls/polimi-analisi)
 
-[Fisica I](https://github.com/Fylls/polimi-fisica)
+[Fisica Sperimentale I](https://github.com/Fylls/polimi-fisica)
 
 [Telecomunicazioni](https://github.com/Fylls/polimi-telecomunicazioni)
 
-[Statistica](https://github.com/Fylls/polimi-statistica)
+[Statistica Applicata](https://github.com/Fylls/polimi-statistica)
 
 </td>
 <td style="text-align:center">
   
-[Analisi III](https://github.com/Fylls/polimi-analisi)
+[Analisi Matematica III](https://github.com/Fylls/polimi-analisi)
 
-[Fisica II](https://github.com/Fylls/polimi-fisica)
+[Fisica Sperimentale II](https://github.com/Fylls/polimi-fisica)
 
 [Sistemi Energetici](https://github.com/Fylls/polimi-sistemi-energetici)
 
-[Meccanica](https://github.com/Fylls/polimi-meccanica)
+[Meccanica Applicata](https://github.com/Fylls/polimi-meccanica)
 
 </td>
 <td style="text-align:center">
