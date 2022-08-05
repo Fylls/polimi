@@ -25,9 +25,9 @@ Notes & Materials from the Polytechnic University of Milan (poliMI)
 <tr>
 <td style="text-align:center">
   
-[Analisi Matematica I](https://github.com/Fylls/polimi-analisi)
+[Analisi I](https://github.com/Fylls/polimi-analisi)
 
-[Chimica e Materiali](https://github.com/Fylls/polimi-chimica)
+[Chimica](https://github.com/Fylls/polimi-chimica)
 
 [Informatica](https://github.com/Fylls/polimi-informatica)
   
@@ -51,7 +51,7 @@ Notes & Materials from the Polytechnic University of Milan (poliMI)
 
 [Sistemi Energetici](https://github.com/Fylls/polimi-sistemi-energetici)
 
-[Meccanica Applicata](https://github.com/Fylls/polimi-meccanica)
+[Meccanica](https://github.com/Fylls/polimi-meccanica)
 
 </td>
 <td style="text-align:center">
