@@ -56,11 +56,11 @@ Notes & Materials from the Polytechnic University of Milan (poliMI)
 </td>
 <td style="text-align:center">
   
-[Circuiti e Misure](https://github.com/Fylls/misure)
+[Circuiti e Misure](https://github.com/Fylls/polimi-elettrotecnica)
 
-[Fisica dei Quanti](https://github.com/Fylls/quanti)
+[Fisica dei Quanti](https://github.com/Fylls/polimi-quanti)
 
-[Automatica](https://github.com/Fylls/automatica)
+[Automatica](https://github.com/Fylls/polimi-automatica)
 
 </td>
   
