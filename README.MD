@@ -4,7 +4,7 @@
 
 <br>
 
-Notes & Materials from the Polytechnic University of Milan (poliMI)
+Notes & Materials from the Polytechnic University of Milan
 
 <br>
 
