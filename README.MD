@@ -25,29 +25,29 @@ Notes & Materials from the Polytechnic University of Milan (poliMI)
 <tr>
 <td style="text-align:center">
   
-[Analisi Matematica I](https://github.com/Fylls/polimi-analisi)
+[Analisi I](https://github.com/Fylls/polimi-analisi)
 
-[Chimica e Materiali](https://github.com/Fylls/polimi-chimica)
+[Chimica](https://github.com/Fylls/polimi-chimica)
 
 [Informatica](https://github.com/Fylls/polimi-informatica)
   
 </td>
 <td style="text-align:center">
   
-[Analisi Matematica II](https://github.com/Fylls/polimi-analisi)
+[Analisi II](https://github.com/Fylls/polimi-analisi)
 
-[Fisica Sperimentale I](https://github.com/Fylls/polimi-fisica)
+[Fisica I](https://github.com/Fylls/polimi-fisica)
 
 [Telecomunicazioni](https://github.com/Fylls/polimi-telecomunicazioni)
 
-[Statistica Applicata](https://github.com/Fylls/polimi-statistica)
+[Statistica](https://github.com/Fylls/polimi-statistica)
 
 </td>
 <td style="text-align:center">
   
-[Analisi Matematica III](https://github.com/Fylls/polimi-analisi)
+[Analisi III](https://github.com/Fylls/polimi-analisi)
 
-[Fisica Sperimentale II](https://github.com/Fylls/polimi-fisica)
+[Fisica II](https://github.com/Fylls/polimi-fisica)
 
 [Sistemi Energetici](https://github.com/Fylls/polimi-sistemi-energetici)
 
