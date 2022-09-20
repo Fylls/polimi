@@ -4,7 +4,7 @@
 
 <br>
 
-Notes & Materials from the Polytechnic University of Milan
+Notes & Materials from my Bachelor's degree in Engineering Physics
 
 <br>
 
