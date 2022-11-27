@@ -56,7 +56,7 @@ Notes & Materials from my Bachelor's degree in Engineering Physics
 
 [Ottica Fisica](https://github.com/Fylls/polimi-ottica)
 
-[Scienza dei Materiali](https://github.com/Fylls/polimi-ottica)
+[Scienza dei Materiali](https://github.com/Fylls/polimi-materiali)
 
 [Elettronica](https://github.com/Fylls/polimi-elettronica)
 
