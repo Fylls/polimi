@@ -52,4 +52,15 @@ Notes & Materials from my Bachelor's degree in Engineering Physics
 [Automatica](https://github.com/Fylls/polimi-automatica)
 
 
+## V semester:
+
+[Ottica Fisica](https://github.com/Fylls/polimi-ottica)
+
+[Scienza dei Materiali](https://github.com/Fylls/polimi-ottica)
+
+[Elettronica](https://github.com/Fylls/polimi-elettronica)
+
+[Nanofabrication Technologies](https://github.com/Fylls/polimi-nanofabrication)
+
+
 </div>
