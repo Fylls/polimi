@@ -47,21 +47,11 @@ Notes & Materials from my Bachelor's degree in Engineering Physics
 
 [Circuiti e Misure](https://github.com/Fylls/polimi-elettrotecnica)
 
-[Fisica dei Quanti](https://github.com/Fylls/polimi-quanti)
-
 [Automatica](https://github.com/Fylls/polimi-automatica)
-
-
-## V semester:
-
-[Ottica Fisica](https://github.com/Fylls/polimi-ottica)
 
 [Scienza dei Materiali](https://github.com/Fylls/polimi-materiali)
 
-[Nanofabrication](https://github.com/Fylls/polimi-nanofabrication)
-
-[Elettronica](https://github.com/Fylls/polimi-elettronica)
-
+dropout
 
 
 </div>
