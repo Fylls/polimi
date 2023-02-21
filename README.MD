@@ -4,7 +4,7 @@
 
 <br>
 
-Notes & Materials from my Bachelor's degree in Engineering Physics
+Notes & Materials from my Bachelor's degree in Engineering Physics, what a scam.
 
 <br>
 
