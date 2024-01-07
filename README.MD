@@ -14,42 +14,42 @@ Notes & Materials from my Bachelor's degree in Engineering Physics, what a scam.
 
 ## I semester:
 
-[Analisi Matematica I](https://github.com/Fylls/polimi-analisi)
+[Analisi Matematica I](https://github.com/sergenti/polimi-analisi)
 
-[Chimica e Materiali](https://github.com/Fylls/polimi-chimica)
+[Chimica e Materiali](https://github.com/sergenti/polimi-chimica)
 
-[Informatica](https://github.com/Fylls/polimi-informatica)
+[Informatica](https://github.com/sergenti/polimi-informatica)
   
 
 ## II semester:
 
-[Analisi Matematica II](https://github.com/Fylls/polimi-analisi)
+[Analisi Matematica II](https://github.com/sergenti/polimi-analisi)
 
-[Fisica Sperimentale I](https://github.com/Fylls/polimi-fisica)
+[Fisica Sperimentale I](https://github.com/sergenti/polimi-fisica)
 
-[Telecomunicazioni](https://github.com/Fylls/polimi-telecomunicazioni)
+[Telecomunicazioni](https://github.com/sergenti/polimi-telecomunicazioni)
 
-[Statistica](https://github.com/Fylls/polimi-statistica)
+[Statistica](https://github.com/sergenti/polimi-statistica)
 
 
 ## III semester:
 
-[Analisi Matematica III](https://github.com/Fylls/polimi-analisi)
+[Analisi Matematica III](https://github.com/sergenti/polimi-analisi)
 
-[Fisica Sperimentale II](https://github.com/Fylls/polimi-fisica)
+[Fisica Sperimentale II](https://github.com/sergenti/polimi-fisica)
 
-[Sistemi Energetici](https://github.com/Fylls/polimi-sistemi-energetici)
+[Sistemi Energetici](https://github.com/sergenti/polimi-sistemi-energetici)
 
-[Meccanica Applicata](https://github.com/Fylls/polimi-meccanica)
+[Meccanica Applicata](https://github.com/sergenti/polimi-meccanica)
 
 
 ## IV semester:
 
-[Circuiti e Misure](https://github.com/Fylls/polimi-elettrotecnica)
+[Circuiti e Misure](https://github.com/sergenti/polimi-elettrotecnica)
 
-[Automatica](https://github.com/Fylls/polimi-automatica)
+[Automatica](https://github.com/sergenti/polimi-automatica)
 
-[Scienza dei Materiali](https://github.com/Fylls/polimi-materiali)
+[Scienza dei Materiali](https://github.com/sergenti/polimi-materiali)
 
 dropout
 
